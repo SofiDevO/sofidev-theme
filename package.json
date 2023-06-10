@@ -6,6 +6,16 @@
   "engines": {
     "vscode": "^1.79.0"
   },
+  "author": {
+    "name": "SofiDev",
+    "email": "contact@itssofi.dev",
+    "url": "https://itssofi.dev/"
+  },
+  "icon": "./icon.png",
+  "repository": {
+    "url": "https://github.com/SofiDevO/dark-purple.git",
+    "type": "git"
+  },
   "categories": [
     "Themes"
   ],
@@ -17,5 +27,6 @@
         "path": "./themes/Dark Purple-color-theme.json"
       }
     ]
-  }
+  },
+  "publisher": "SofiDev"
 }
