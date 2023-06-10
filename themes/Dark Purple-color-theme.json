@@ -278,7 +278,7 @@
 		  "punctuation.definition.string"
 		],
 		"settings": {
-		  "foreground": "#c20061"
+		  "foreground": "#ff8ff6"
 		}
 	  },
 	  {
@@ -292,14 +292,14 @@
 		"name": "Variable",
 		"scope": ["variable", "entity.name.variable"],
 		"settings": {
-		  "foreground": "#ff7edb"
+		  "foreground": "#f10956"
 		}
 	  },
 	  {
 		"name": "Language variable",
 		"scope": "variable.language",
 		"settings": {
-		  "foreground": "#fe4450",
+		  "foreground": "#fe4444",
 		  "fontStyle": "bold"
 		}
 	  },
