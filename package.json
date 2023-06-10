@@ -1,6 +1,6 @@
 {
-  "name": "dark-purple",
-  "displayName": "DarkPurple",
+  "name": "sofidev",
+  "displayName": "SofiDev",
   "description": "My first theme. I hope you like it 💙",
   "version": "0.0.1",
   "engines": {
@@ -12,6 +12,7 @@
     "url": "https://itssofi.dev/"
   },
   "icon": "./icon.png",
+
   "repository": {
     "url": "https://github.com/SofiDevO/dark-purple.git",
     "type": "git"
@@ -22,9 +23,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dark Purple",
+        "label": "SofiDev",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark Purple-color-theme.json"
+        "path": "./themes/SofiDev.json"
       }
     ]
   },
