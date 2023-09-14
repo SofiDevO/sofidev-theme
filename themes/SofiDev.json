@@ -193,7 +193,7 @@
 		"settings.numberInputBorder": "#e9d9f220",
 		"settings.textInputBackground": "#180030",
 		"settings.textInputBorder": "#fafafa20",
-		"sideBar.background": "#07000e",
+		"sideBar.background": "#1D0134",
 		"sideBar.border": "#4d057b60",
 		"sideBar.foreground": "#ddddddb0",
 		"sideBarSectionHeader.background": "#120024",
@@ -234,7 +234,7 @@
 		"tab.unfocusedHoverForeground": "#e9d9f2",
 		"tab.unfocusedInactiveForeground": "#e9d9f2a0",
 		"tab.unfocusedInactiveModifiedBorder": "#C8867060",
-		"terminal.background": "#000000",
+		"terminal.background": "#060012",
 		"terminal.foreground": "#e9d9f2",
 		"terminalCursor.foreground": "#00c54c",
 		"textBlockQuote.background": "#d4d4d41a",
@@ -303,7 +303,9 @@
 			"scope": "variable.language",
 			"settings": {
 				"foreground": "#fe4450",
-				"fontStyle": "bold"
+				"fontStyle": "bold",
+				"editor.fontFamily":"MesloLGS NF",
+				"terminal.integrated.fontFamily": "MesloLGS NF",
 			}
 		},
 		{

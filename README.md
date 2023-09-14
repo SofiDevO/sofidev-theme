@@ -1,7 +1,7 @@
 # SofiDev Visual Studio Code Theme
 
 Welcome to the README for the SofiDev Visual Studio Code Theme! This theme is designed to enhance your coding experience with Visual Studio Code.
-
+![Alt text](<Captura de pantalla 2023-09-14 171842.png>)
 ## Table of Contents
 
 - [Getting Started](#getting-started)
@@ -65,17 +65,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Theme Information
 
-- **Name**: SofiDev
-- **Display Name**: SofiDev
-- **Description**: My official VSCode theme 💙
-- **Version**: 2.0.0
-- **VSCode Compatibility**: ^1.79.0
+-  SofiDev
+
 - **Author**: [SofiDev](https://itssofi.dev/)
   - **Email**: contact@itssofi.dev
   - **Website**: [https://itssofi.dev/](https://itssofi.dev/)
-- **Icon**: [Icon Image](./icon.png)
 - **Repository**:
-  - **URL**: [GitHub Repository](https://github.com/SofiDevO/sofidev-theme)
-  - **Type**: git
 
 **Enjoy coding with SofiDev!**
