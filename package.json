@@ -11,7 +11,7 @@
     "email": "contact@itssofi.dev",
     "url": "https://itssofi.dev/"
   },
-  "icon": "./icon.png",
+  "icon": "icon.png",
 
   "repository": {
     "url": "https://github.com/SofiDevO/sofidev-theme",
