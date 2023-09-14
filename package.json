@@ -1,8 +1,8 @@
 {
   "name": "sofidev",
   "displayName": "SofiDev",
-  "description": "My first theme. I hope you like it 💙",
-  "version": "0.0.1",
+  "description": "My oficial VsCode theme 💙",
+  "version": "2.0.0",
   "engines": {
     "vscode": "^1.79.0"
   },
@@ -14,11 +14,20 @@
   "icon": "./icon.png",
 
   "repository": {
-    "url": "https://github.com/SofiDevO/dark-purple.git",
+    "url": "https://github.com/SofiDevO/sofidev-theme",
     "type": "git"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "SofiDev",
+    "Dark theme", 
+    "coder",
+    "purple",
+    "dark purple",
+    "ubuntu",
+    "Night"
   ],
   "contributes": {
     "themes": [
