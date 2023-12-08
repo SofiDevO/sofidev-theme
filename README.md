@@ -13,7 +13,7 @@ SofiDev Visual Studio Code Theme! This theme is designed to enhance your coding 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Settings](#Settings-best-config)
+- [Settings](#Settings)
 - [Contribution](#contribution)
 - [License](#license)
 - [Theme Information](#theme-information)
@@ -55,7 +55,8 @@ Alternatively, you can install it manually by following the steps outlined in th
 
 Once you have installed the SofiDev Theme, you can set it as your active color theme by following the steps in the [Getting Started](#getting-started) section.
 
-## 💜 Settings best config:
+## 💜 Settings
+This is the best settings for this Theme
 
 ```json
 {
