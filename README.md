@@ -31,11 +31,11 @@ To get started with SofiDev, follow these steps:
 7. Type "Color Theme" and select "Preferences: Color Theme" from the dropdown.
 8. Choose "SofiDev" as your color theme.
 
-## 🚀 FONT
+## Font
 
 I highly recommend installing this font, [Fira Code](https://fonts.google.com/specimen/Fira+Code).
 
-## 🪐 Features
+##  Features
 
 SofiDev Theme offers the following features:
 
@@ -55,8 +55,8 @@ Alternatively, you can install it manually by following the steps outlined in th
 
 Once you have installed the SofiDev Theme, you can set it as your active color theme by following the steps in the [Getting Started](#getting-started) section.
 
-## 💜 Settings
-This is the best settings for this Theme
+##  Settings
+💜This is the best settings for this Theme
 
 ```json
 {
