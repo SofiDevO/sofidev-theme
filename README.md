@@ -4,6 +4,8 @@ SofiDev Visual Studio Code Theme! This theme is designed to enhance your coding 
 
 ![image](https://github.com/SofiDevO/sofidev-theme/assets/102200061/1ddf6632-159d-4af8-aed2-93cd2a95bcd3)
 
+
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
