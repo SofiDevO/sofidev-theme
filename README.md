@@ -1,17 +1,19 @@
+I apologize for the confusion. Here is the README in English as you originally provided:
+
 # SofiDev Visual Studio Code Theme
 
 SofiDev Visual Studio Code Theme! This theme is designed to enhance your coding experience with Visual Studio Code.
 
 ![image](https://github.com/SofiDevO/sofidev-theme/assets/102200061/1ddf6632-159d-4af8-aed2-93cd2a95bcd3)
 
-
-
 ## Table of Contents
 
 - [Getting Started](#getting-started)
+- [FONT](#font)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Settings](#Settings-best-config)
 - [Contribution](#contribution)
 - [License](#license)
 - [Theme Information](#theme-information)
@@ -29,12 +31,11 @@ To get started with SofiDev, follow these steps:
 7. Type "Color Theme" and select "Preferences: Color Theme" from the dropdown.
 8. Choose "SofiDev" as your color theme.
 
-## 🚀FONT
+## 🚀 FONT
 
-I highly recommend to install this font, [HERe](https://fonts.google.com/specimen/Fira+Code)
+I highly recommend installing this font, [Fira Code](https://fonts.google.com/specimen/Fira+Code).
 
-
-## 🪐Features
+## 🪐 Features
 
 SofiDev Theme offers the following features:
 
@@ -54,11 +55,11 @@ Alternatively, you can install it manually by following the steps outlined in th
 
 Once you have installed the SofiDev Theme, you can set it as your active color theme by following the steps in the [Getting Started](#getting-started) section.
 
-## 💜Settings.json best config for this Theme:
+## 💜 Settings best config:
 
 ```json
-  {
-  //Theme configurations
+{
+  // Theme configurations
   "workbench.colorTheme": "SofiDev",
   "workbench.iconTheme": "vscode-icons",
   "editor.codeLensFontSize": 12,
@@ -84,10 +85,9 @@ Once you have installed the SofiDev Theme, you can set it as your active color t
   "terminal.integrated.fontFamily": "'MesloLGS NF'",
   "window.zoomLevel": 1.5,
 
-//Rest of your config...
+  // Rest of your config...
 }
 ```
-
 
 ## Contribution
 
@@ -112,6 +112,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Author**: [SofiDev](https://itssofi.dev/)
   - **Email**: contact@itssofi.dev
   - **Website**: [https://itssofi.dev/](https://itssofi.dev/)
-- **Repository**:
+- **Repository**: [SofiDev Theme Repository](https://github.com/SofiDevO/sofidev-theme)
 
 **Enjoy coding with SofiDev!**
