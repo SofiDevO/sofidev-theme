@@ -1,7 +1,9 @@
 # SofiDev Visual Studio Code Theme
 
-Welcome to the README for the SofiDev Visual Studio Code Theme! This theme is designed to enhance your coding experience with Visual Studio Code.
-![Alt text](<Captura de pantalla 2023-09-14 171842.png>)
+SofiDev Visual Studio Code Theme! This theme is designed to enhance your coding experience with Visual Studio Code.
+
+![image](https://github.com/SofiDevO/sofidev-theme/assets/102200061/1ddf6632-159d-4af8-aed2-93cd2a95bcd3)
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
@@ -25,7 +27,12 @@ To get started with SofiDev, follow these steps:
 7. Type "Color Theme" and select "Preferences: Color Theme" from the dropdown.
 8. Choose "SofiDev" as your color theme.
 
-## Features
+## 🚀FONT
+
+I highly recommend to install this font, [HERe](https://fonts.google.com/specimen/Fira+Code)
+
+
+## 🪐Features
 
 SofiDev Theme offers the following features:
 
@@ -45,7 +52,40 @@ Alternatively, you can install it manually by following the steps outlined in th
 
 Once you have installed the SofiDev Theme, you can set it as your active color theme by following the steps in the [Getting Started](#getting-started) section.
 
-Feel free to customize the theme to your liking or report any issues you encounter. We welcome your feedback!
+## 💜Settings.json best config for this Theme:
+
+```json
+  {
+  //Theme configurations
+  "workbench.colorTheme": "SofiDev",
+  "workbench.iconTheme": "vscode-icons",
+  "editor.codeLensFontSize": 12,
+  "editor.fontSize": 14,
+  "editor.lineHeight": 20,
+  "editor.letterSpacing": 0.1,
+  "editor.fontWeight": "400",
+  "editor.fontFamily": "'Fira Code','Courier New', Consolas, 'Courier New', monospace,  'MesloLGS NF'",
+  "security.workspace.trust.untrustedFiles": "open",
+  "vscode-edge-devtools.webhintInstallNotification": true,
+  "editor.fontLigatures": true,
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 4,
+  "editor.cursorBlinking": "smooth",
+  "editor.renderWhitespace": "all",
+  "editor.snippetSuggestions": "top",
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.glyphMargin": true,
+  "workbench.editor.enablePreview": false,
+  "explorer.confirmDragAndDrop": false,
+  "files.trimTrailingWhitespace": true,
+  "files.trimFinalNewlines": true,
+  "terminal.integrated.fontFamily": "'MesloLGS NF'",
+  "window.zoomLevel": 1.5,
+
+//Rest of your config...
+}
+```
+
 
 ## Contribution
 
