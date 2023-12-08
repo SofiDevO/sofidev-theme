@@ -13,7 +13,7 @@ SofiDev Visual Studio Code Theme! This theme is designed to enhance your coding 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Settings](#Settings)
+- [Settings](#settings)
 - [Contribution](#contribution)
 - [License](#license)
 - [Theme Information](#theme-information)
