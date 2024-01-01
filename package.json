@@ -2,7 +2,7 @@
   "name": "sofidev",
   "displayName": "SofiDev",
   "description": "My oficial VsCode theme 💙",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "engines": {
     "vscode": "^1.79.0"
   },
@@ -22,7 +22,7 @@
   ],
   "keywords": [
     "SofiDev",
-    "Dark theme", 
+    "Dark theme",
     "coder",
     "purple",
     "dark purple",
