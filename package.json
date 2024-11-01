@@ -1,17 +1,21 @@
 {
   "name": "sofidev",
   "displayName": "SofiDev",
-  "description": "My oficial VsCode theme 💙",
-  "version": "2.0.2",
+  "description": "My SofiDev Theme",
+  "version": "3.1.1",
   "engines": {
     "vscode": "^1.79.0"
   },
   "author": {
-    "name": "SofiDev",
-    "email": "contact@itssofi.dev",
-    "url": "https://itssofi.dev/"
+    "name": "Sofia Osorio (SofiDev)",
+    "email": "sofi.dev@outlook.com",
+    "url": "https:/itssofi.dev/"
   },
   "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#1b1f23",
+    "theme": "dark"
+  },
 
   "repository": {
     "url": "https://github.com/SofiDevO/sofidev-theme",
@@ -35,6 +39,11 @@
         "label": "SofiDev",
         "uiTheme": "vs-dark",
         "path": "./themes/SofiDev.json"
+      },
+      {
+        "label": "SofiDark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sofiDark.json"
       }
     ]
   },

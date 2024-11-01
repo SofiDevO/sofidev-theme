@@ -1,11 +1,9 @@
-I apologize for the confusion. Here is the README in English as you originally provided:
-
+![Preview](/portada.png)
 # SofiDev Visual Studio Code Theme
 
 SofiDev Visual Studio Code Theme! This theme is designed to enhance your coding experience with Visual Studio Code.
 
 
-![Preview](image.png)
 ## Table of Contents
 
 - [Getting Started](#getting-started)
@@ -57,7 +55,7 @@ Once you have installed the SofiDev Theme, you can set it as your active color t
 
 ##  Settings
 💜This is the best settings for this Theme
-
+  in adition I recomend to install Fira Code and MesloGs NF for a better experience
 ```json
 {
   // Theme configurations
@@ -68,9 +66,7 @@ Once you have installed the SofiDev Theme, you can set it as your active color t
   "editor.lineHeight": 20,
   "editor.letterSpacing": 0.1,
   "editor.fontWeight": "400",
-  "editor.fontFamily": "'Fira Code','Courier New', Consolas, 'Courier New', monospace,  'MesloLGS NF'",
-  "security.workspace.trust.untrustedFiles": "open",
-  "vscode-edge-devtools.webhintInstallNotification": true,
+  "editor.fontFamily": "'Fira Code', monospace,  'MesloLGS NF'",
   "editor.fontLigatures": true,
   "editor.cursorStyle": "line",
   "editor.cursorWidth": 4,
@@ -80,13 +76,9 @@ Once you have installed the SofiDev Theme, you can set it as your active color t
   "workbench.startupEditor": "newUntitledFile",
   "editor.glyphMargin": true,
   "workbench.editor.enablePreview": false,
-  "explorer.confirmDragAndDrop": false,
-  "files.trimTrailingWhitespace": true,
-  "files.trimFinalNewlines": true,
   "terminal.integrated.fontFamily": "'MesloLGS NF'",
   "window.zoomLevel": 1.5,
-
-  // Rest of your config...
+// Rest of your config...
 }
 ```
 
