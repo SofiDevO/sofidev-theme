@@ -2,14 +2,22 @@
   "name": "sofidev",
   "displayName": "SofiDev",
   "description": "My SofiDev Theme",
-  "version": "3.2.1",
+  "version": "5.0.1",
+  "main": "./extension.js",
   "engines": {
     "vscode": "^1.79.0"
   },
+  "activationEvents": [
+    "onCommand:sofidev.setTheme.SofiDev",
+    "onCommand:sofidev.setTheme.SofiDark",
+    "onCommand:sofidev.setTheme.SofiAgust",
+    "onCommand:sofidev.setTheme.SofiOceanic",
+    "onCommand:sofidev.setTheme.SofiCatppuccin"
+  ],
   "author": {
     "name": "Sofia Osorio (SofiDev)",
-    "email": "sofi.dev@outlook.com",
-    "url": "https:/itssofi.dev/"
+    "email": "contact@sofidev.top",
+    "url": "https://itssofi.dev/"
   },
   "icon": "icon.png",
   "galleryBanner": {
@@ -43,6 +51,48 @@
         "label": "SofiDark",
         "uiTheme": "vs-dark",
         "path": "./themes/sofiDark.json"
+      },
+      {
+        "label": "SofiAgust",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sofiAgust.json"
+      },
+      {
+        "label": "SofiOceanic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sofiOceanic.json"
+      },
+      {
+        "label": "SofiCatppuccin",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sofiCatppuccin.json"
+      }
+    ],
+    "commands": [
+      {
+        "command": "sofidev.setTheme.SofiDev",
+        "title": "SofiDev: Set SofiDev Theme",
+        "category": "Themes"
+      },
+      {
+        "command": "sofidev.setTheme.SofiDark",
+        "title": "SofiDev: Set SofiDark Theme",
+        "category": "Themes"
+      },
+      {
+        "command": "sofidev.setTheme.SofiAgust",
+        "title": "SofiDev: Set SofiAgust Theme",
+        "category": "Themes"
+      },
+      {
+        "command": "sofidev.setTheme.SofiOceanic",
+        "title": "SofiDev: Set SofiOceanic Theme",
+        "category": "Themes"
+      },
+      {
+        "command": "sofidev.setTheme.SofiCatppuccin",
+        "title": "SofiDev: Set SofiCatppuccin Theme",
+        "category": "Themes"
       }
     ]
   },

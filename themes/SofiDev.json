@@ -1,10 +1,10 @@
 {
     "name": "SofiDev",
     "type": "dark",
-    "semanticHighlighting": false,
+    "semanticHighlighting": true,
     "colors": {
-    "activityBar.activeBorder": "#b133ffc0",
-    "activityBar.activeFocusBorder": "#b133ff",
+    "activityBar.activeBorder": "#5e06f6",
+    "activityBar.activeFocusBorder": "#5e06f6",
     "activityBar.background": "#150630",
     "activityBar.border": "#04e2fb",
     "activityBar.dropBorder": "#00ff11",
@@ -12,7 +12,7 @@
     "activityBar.inactiveForeground": "#5d00e9",
     "activityBarBadge.background": "#4d057b",
     "activityBarBadge.foreground": "#17ffff",
-    "badge.background": "#7d16bfa0",
+    "badge.background": "#ff00a0",
     "breadcrumb.activeSelectionForeground": "#17ffff",
     "breadcrumb.focusForeground": "#e9d9f2",
     "breadcrumb.foreground": "#17ffff",
@@ -33,7 +33,7 @@
     "dropdown.border": "#933aff",
     "dropdown.foreground": "#0cdcb3",
     "dropdown.listBackground": "#180030",
-    "editor.background": "#130129",
+    "editor.background": "#0c011f",
     "editor.findMatchBackground": "#7d16bf",
     "editor.findMatchHighlightBackground": "#4d057be0",
     "editor.findRangeHighlightBackground": "#4d057b80",
@@ -42,10 +42,10 @@
     "editor.inactiveSelectionBackground": "#59159e",
     "editor.lineHighlightBackground": "#25013Cb0",
     "editor.lineHighlightBorder": "#25013C",
-    "editor.rangeHighlightBackground": "#130061",
+    "editor.rangeHighlightBackground": "#5b480c",
     "editor.selectionBackground": "#17386e",
     "editor.selectionHighlightBackground": "#0c0989",
-    "editor.wordHighlightBackground": "#08543f",
+    "editor.wordHighlightBackground": "#000f39",
     "editor.wordHighlightStrongBackground": "#44357b",
     "editorBracketMatch.background": "#4d057b",
     "editorBracketMatch.border": "#7d16bfb0",
@@ -345,7 +345,7 @@
     "name": "Number",
     "scope": "constant.numeric",
     "settings": {
-    "foreground": "#00ffd9"
+    "foreground": "#00ff1d"
     }
     },
     {
@@ -390,7 +390,7 @@
     "name": "Tag attribute",
     "scope": "entity.other.attribute-name",
     "settings": {
-    "foreground": "#fcdf00"
+    "foreground": "#0cb3ff"
     }
     },
     {
@@ -483,7 +483,7 @@
     "name": "Unit",
     "scope": "keyword.other.unit",
     "settings": {
-    "foreground": "#c6ff0a"
+    "foreground": "#00ffe5"
     }
     },
     {
@@ -550,8 +550,9 @@
     "support.type.property-name.json"
     ],
     "settings": {
-    "fontStyle": "bold",
-    "foreground": "#11cbf9"
+    "fontStyle": "italic",
+    "foreground": "#00ffd3",
+    "editor.fontFamily": "Fira Code"
     }
     },
     {
@@ -596,7 +597,7 @@
     "entity.other.attribute-name.pseudo-class"
     ],
     "settings": {
-    "foreground": "#00ddcb"
+    "foreground": "#a47cff"
     }
     },
     {

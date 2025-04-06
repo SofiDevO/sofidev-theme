@@ -2,8 +2,32 @@
 
 All notable changes to the "SofiDev" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [4.2.0] - YYYY-MM-DD
 
-## [Unreleased]
+### Added
+- New theme variants: SofiOceanic and SofiCatppuccin
+- Theme switching commands via Command Palette
+- Extension activation logic for theme management
 
-- Initial release
+### Changed
+- Updated author contact email to contact@sofidev.top
+- Improved extension packaging structure
+- Enhanced documentation for theme commands
+
+### Fixed
+- URL formatting in author metadata
+- Theme configuration validation
+
+## [5.0.1] - 2025-04-05
+
+### Added
+- SofiDark theme variant
+- SofiAgust seasonal theme
+- Social media and sponsorship links
+
+## [4.0.0] - 2025-04-05
+
+### Added
+- Initial release of SofiDev theme
+- Base theme configuration
+- Documentation setup

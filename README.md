@@ -1,110 +1,74 @@
+
 ![Preview](/portada.png)
 # SofiDev Visual Studio Code Theme
 
-SofiDev Visual Studio Code Theme! This theme is designed to enhance your coding experience with Visual Studio Code.
-
-
-## Table of Contents
-
-- [Getting Started](#getting-started)
-- [FONT](#font)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Settings](#settings)
-- [Contribution](#contribution)
-- [License](#license)
-- [Theme Information](#theme-information)
-
-## Getting Started
-
-To get started with SofiDev, follow these steps:
-
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/sofidev-theme.git`.
-2. Open Visual Studio Code.
-3. Go to `Extensions` (you can use the shortcut `Ctrl+Shift+X`).
-4. Search for `SofiDev Theme`.
-5. Click `Install` to install the theme.
-6. In the top menu, click `View` > `Command Palette`.
-7. Type "Color Theme" and select "Preferences: Color Theme" from the dropdown.
-8. Choose "SofiDev" as your color theme.
-
-## Font
-
-I highly recommend installing this font, [Fira Code](https://fonts.google.com/specimen/Fira+Code).
-
-##  Features
-
-SofiDev Theme offers the following features:
-
-- A visually appealing and comfortable color scheme for all-day coding.
-- Enhanced code readability.
-- Customized syntax highlighting for various programming languages.
-- Support for popular file types and extensions.
-- Regular updates and maintenance.
+A collection of elegant dark themes for Visual Studio Code featuring purple tones and optimized for developer comfort.
 
 ## Installation
 
-You can install the SofiDev Theme via the Visual Studio Code Extensions marketplace. Simply search for "SofiDev Theme" and click the "Install" button.
+1. Open VS Code Extensions (`Ctrl+Shift+X`)
+2. Search for "SofiDev Theme"
+3. Click Install
+4. Activate the theme:
+   - `Ctrl+Shift+P` > "Preferences: Color Theme"
+   - Select any SofiDev theme
 
-Alternatively, you can install it manually by following the steps outlined in the [Getting Started](#getting-started) section.
+## Theme Switching Commands 🎨
 
-## Usage
+Quickly switch between themes using VS Code commands:
+1. Open Command Palette (`Ctrl + Shift + P`)
+2. Type "SofiDev: Set"
+3. Choose from available themes:
+   - SofiDev: Set SofiDev Theme
+   - SofiDark: Set SofiDark Theme
+   - SofiAgust: Set SofiAgust Theme
+   - SofiOceanic: Set SofiOceanic Theme
+   - SofiCatppuccin: Set SofiCatppuccin Theme
+## Recommended Setup
+For optimal experience:
+- Font: [Fira Code](https://fonts.google.com/specimen/Fira+Code) (enable ligatures)
+- Icons: [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
-Once you have installed the SofiDev Theme, you can set it as your active color theme by following the steps in the [Getting Started](#getting-started) section.
-
-##  Settings
-💜This is the best settings for this Theme
-  in adition I recomend to install Fira Code and MesloGs NF for a better experience
 ```json
 {
-  // Theme configurations
   "workbench.colorTheme": "SofiDev",
-  "workbench.iconTheme": "vscode-icons",
-  "editor.codeLensFontSize": 12,
-  "editor.fontSize": 14,
-  "editor.lineHeight": 20,
-  "editor.letterSpacing": 0.1,
-  "editor.fontWeight": "400",
-  "editor.fontFamily": "'Fira Code', monospace,  'MesloLGS NF'",
+  "editor.fontFamily": "'Fira Code', 'MesloLGS NF', monospace",
   "editor.fontLigatures": true,
-  "editor.cursorStyle": "line",
-  "editor.cursorWidth": 4,
-  "editor.cursorBlinking": "smooth",
-  "editor.renderWhitespace": "all",
-  "editor.snippetSuggestions": "top",
-  "workbench.startupEditor": "newUntitledFile",
-  "editor.glyphMargin": true,
-  "workbench.editor.enablePreview": false,
-  "terminal.integrated.fontFamily": "'MesloLGS NF'",
-  "window.zoomLevel": 1.5,
-// Rest of your config...
+  "workbench.iconTheme": "vscode-icons"
 }
 ```
 
-## Contribution
+## Key Features
+- 🎨 5 dark variants with multi-language support
+- 🌙 Based on multiple MIT popular themes
+- 🖥 Optimized for web development and modern tech
+- ⚡️ Regular updates and active maintenance
 
-Contributions are highly encouraged! If you'd like to contribute to the SofiDev Theme project, please follow these steps:
+## Support the Project 💖
+Enjoying the theme? Support my work:
+- [PayPal](https://www.paypal.com/paypalme/ansof89?country.x=MX&locale.x=es_XC)
+- [Ko-fi](https://ko-fi.com/sofidev)
+- [GitHub Sponsors](https://github.com/sponsors/SofiDevO)
+- [Become a YouTube Channel Member](https://www.youtube.com/channel/UC36_js-krsAHAEAWpEDhHtw/join)
 
-1. Fork this repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them with descriptive commit messages.
-4. Push your changes to your fork.
-5. Open a pull request to this repository's `main` branch.
+## Connect with Me 🌐
+- [All Social Media Links](https://links.itssofi.dev/)
 
-We appreciate all contributions, whether it's bug fixes, feature enhancements, or even just reporting issues.
+## Contributing
+Want to improve the themes? Contributions welcome!
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/improvement`)
+3. Commit your changes
+4. Push to the branch
+5. Open a Pull Request
+
+## Author
+👩💻 **Sofia Osorio (SofiDev)**
+📧 [contact@sofidev.top](mailto:contact@sofidev.top)
+🌐 [https://itssofi.dev/](https://itssofi.dev)
+🐱 [GitHub Repository](https://github.com/SofiDevO/sofidev-theme)
 
 ## License
+Distributed under MIT License. See [LICENSE](LICENSE) for details.
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Theme Information
-
--  SofiDev
-
-- **Author**: [SofiDev](https://itssofi.dev/)
-  - **Email**: contact@itssofi.dev
-  - **Website**: [https://itssofi.dev/](https://itssofi.dev/)
-- **Repository**: [SofiDev Theme Repository](https://github.com/SofiDevO/sofidev-theme)
-
-**Enjoy coding with SofiDev!**
+**Happy coding with SofiDev!** 🚀
