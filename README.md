@@ -1,8 +1,14 @@
 
 ![Preview](/portada.png)
+
 # SofiDev Visual Studio Code Theme
 
-A collection of elegant dark themes for Visual Studio Code featuring purple tones and optimized for developer comfort.
+A collection of elegant dark themes for Visual Studio Code featuring purple tones, now with improved accessibility and higher contrast for better readability (v5.1.0).
+
+
+## What's New in 5.1.0
+- Updated main theme color scheme for improved accessibility and contrast
+- Fixed contrast issues for better readability (WCAG compliance)
 
 ## Installation
 

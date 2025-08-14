@@ -1,6 +1,13 @@
+
 # Change Log
 
 All notable changes to the "SofiDev" extension will be documented in this file.
+
+## [5.1.0] - 2025-08-13
+
+### Changed
+- Updated main theme color scheme for improved accessibility and contrast
+- Fixed contrast issues for better readability (WCAG compliance)
 
 ## [4.2.0] - YYYY-MM-DD
 

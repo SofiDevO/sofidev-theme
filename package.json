@@ -2,7 +2,7 @@
   "name": "sofidev",
   "displayName": "SofiDev",
   "description": "My SofiDev Theme",
-  "version": "5.0.1",
+  "version": "5.1.0",
   "main": "./extension.js",
   "engines": {
     "vscode": "^1.79.0"
@@ -11,8 +11,7 @@
     "onCommand:sofidev.setTheme.SofiDev",
     "onCommand:sofidev.setTheme.SofiDark",
     "onCommand:sofidev.setTheme.SofiAgust",
-    "onCommand:sofidev.setTheme.SofiOceanic",
-    "onCommand:sofidev.setTheme.SofiCatppuccin"
+    "onCommand:sofidev.setTheme.SofiOceanic"
   ],
   "author": {
     "name": "Sofia Osorio (SofiDev)",
