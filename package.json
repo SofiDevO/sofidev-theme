@@ -2,7 +2,7 @@
   "name": "sofidev",
   "displayName": "SofiDev",
   "description": "My SofiDev Theme",
-  "version": "5.1.4",
+  "version": "6.1.4",
   "main": "./extension.js",
   "engines": {
     "vscode": "^1.79.0"
@@ -10,7 +10,8 @@
   "activationEvents": [
     "onCommand:sofidev.setTheme.SofiDev",
     "onCommand:sofidev.setTheme.SofiAgust",
-    "onCommand:sofidev.setTheme.SofiOceanic"
+    "onCommand:sofidev.setTheme.SofiOceanic",
+    "onCommand:sofidev.setTheme.SofiAura"
   ],
   "author": {
     "name": "Sofia Osorio (SofiDev)",
@@ -59,6 +60,11 @@
         "label": "SofiCatppuccin",
         "uiTheme": "vs-dark",
         "path": "./themes/SofiCatppuccin.json"
+      },
+      {
+        "label": "SofiAura",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SofiAura.json"
       }
     ],
     "commands": [
@@ -68,8 +74,8 @@
         "category": "Themes"
       },
       {
-        "command": "sofidev.setTheme.SofiDark",
-        "title": "SofiDev: Set SofiDark Theme",
+        "command": "sofidev.setTheme.SofiAura",
+        "title": "SofiDev: Set SofiAura Theme",
         "category": "Themes"
       },
       {
