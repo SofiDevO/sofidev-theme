@@ -3,10 +3,10 @@ const vscode = require('vscode');
 function activate(context) {
   const themeCommands = {
     'sofidev.setTheme.SofiDev': 'SofiDev',
-    'sofidev.setTheme.SofiDark': 'SofiDark',
     'sofidev.setTheme.SofiAgust': 'SofiAgust',
     'sofidev.setTheme.SofiOceanic': 'SofiOceanic',
-    'sofidev.setTheme.SofiCatppuccin': 'SofiCatppuccin'
+    'sofidev.setTheme.SofiCatppuccin': 'SofiCatppuccin',
+    'sofidev.setTheme.SofiAura': 'SofiAura'
   };
 
   Object.entries(themeCommands).forEach(([command, theme]) => {
