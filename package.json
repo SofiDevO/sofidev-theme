@@ -2,14 +2,13 @@
   "name": "sofidev",
   "displayName": "SofiDev",
   "description": "My SofiDev Theme",
-  "version": "5.1.2",
+  "version": "5.1.4",
   "main": "./extension.js",
   "engines": {
     "vscode": "^1.79.0"
   },
   "activationEvents": [
     "onCommand:sofidev.setTheme.SofiDev",
-    "onCommand:sofidev.setTheme.SofiDark",
     "onCommand:sofidev.setTheme.SofiAgust",
     "onCommand:sofidev.setTheme.SofiOceanic"
   ],
@@ -47,24 +46,19 @@
         "path": "./themes/SofiDev.json"
       },
       {
-        "label": "SofiDark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/sofiDark.json"
-      },
-      {
         "label": "SofiAgust",
         "uiTheme": "vs-dark",
-        "path": "./themes/sofiAgust.json"
+        "path": "./themes/SofiAgust.json"
       },
       {
         "label": "SofiOceanic",
         "uiTheme": "vs-dark",
-        "path": "./themes/sofiOceanic.json"
+        "path": "./themes/SofiOceanic.json"
       },
       {
         "label": "SofiCatppuccin",
         "uiTheme": "vs-dark",
-        "path": "./themes/sofiCatppuccin.json"
+        "path": "./themes/SofiCatppuccin.json"
       }
     ],
     "commands": [
