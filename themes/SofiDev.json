@@ -303,7 +303,7 @@
     ],
     "settings": {
     "fontStyle": "italic",
-    "foreground": "#00c3ff"
+    "foreground": "#ff16e0e1"
     }
     },
 
@@ -380,8 +380,8 @@
     "name": "HTML or XML tag",
     "scope": "entity.name.tag",
     "settings": {
-    "foreground": "#ff27e2e7",
-    "fontStyle": "bold"
+    "foreground": "#fd4dddff",
+    "fontStyle": ""
     }
     },
     {
@@ -413,7 +413,7 @@
     "name": "Tag attribute",
     "scope": "entity.other.attribute-name",
     "settings": {
-    "foreground": "#ffe600bd",
+    "foreground": "#ff9900ec",
 	"fontStyle": "italic"
     }
     },
@@ -478,7 +478,7 @@
         "meta.var.expr.ts"
     ],
     "settings": {
-    "foreground": "#f75dd5"
+    "foreground": "#6832fdd6"
     }
     },
 
@@ -489,7 +489,7 @@
     "variable.function"
     ],
     "settings": {
-    "foreground": "#00ffea",
+    "foreground": "#00ffeab1",
     "fontStyle": "bold"
     }
     },
@@ -523,7 +523,7 @@
     "name": "Control keyword",
     "scope": "keyword.control",
     "settings": {
-    "foreground": "#fbff00e1",
+    "foreground": "#f8a305dc",
 	"fontStyle": ""
     }
     },
@@ -595,7 +595,7 @@
     "scope": "support",
     "settings": {
     "fontStyle": "bold",
-    "foreground": "#7256d8"
+    "foreground": "#00f1fdff"
     }
     },
     {
@@ -606,7 +606,7 @@
     ],
     "settings": {
     "fontStyle": "bold",
-    "foreground": "#ff7b00fd"
+    "foreground": "#00ffbbff"
     }
     },
     {
