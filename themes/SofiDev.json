@@ -235,7 +235,7 @@
     "tab.unfocusedInactiveForeground": "#e9d9f2a0",
     "tab.unfocusedInactiveModifiedBorder": "#C8867060",
     "terminal.background": "#140d25",
-    "terminal.foreground": "#da71faff",
+    "terminal.foreground": "#ff9aafff",
     "terminalCursor.foreground": "#09f5e5",
     "textBlockQuote.background": "#d4d4d41a",
     "textBlockQuote.border": "#d4d4d440",

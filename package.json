@@ -2,7 +2,7 @@
   "name": "sofidev",
   "displayName": "SofiDev",
   "description": "My SofiDev Theme",
-  "version": "6.1.8",
+  "version": "6.1.9",
   "main": "./extension.js",
   "engines": {
     "vscode": "^1.79.0"
